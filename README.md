@@ -11,4 +11,3 @@ These are screenshots
 ![Screenshot 2025-02-02 223654](https://github.com/user-attachments/assets/e1ce24ee-9e46-48f8-a13d-8665a31be8ca)
 ![Screenshot 2025-02-02 223631](https://github.com/user-attachments/assets/3947416e-7bfb-44dd-8e55-601229b62ce1)
 
-![rogpro netlify app_(Samsung Galaxy S8+)](https://github.com/user-attachments/assets/dc6b7a07-6c6f-4e47-9efc-1dc4eb785375)
